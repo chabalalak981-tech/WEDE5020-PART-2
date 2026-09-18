@@ -188,3 +188,18 @@ Celebrate-With-Us/
 Part Two of the project focused on developing the two proposed websites using HTML5 and CSS3.
 Both websites include multiple pages, navigation, images, forms and external CSS. Responsive design was also implemented and tested on desktop, tablet and mobile screen sizes.
 The testing process helped identify areas that needed adjustment and allowed the websites to be improved for a better user experience.
+# 8. REFERENCES
+
+- Mozilla Developer Network (MDN) Web Docs. (2026). HTML: HyperText Markup Language. Available at: https://developer.mozilla.org/en-US/docs/Web/HTML (Accessed: 18 September 2026).
+
+- Mozilla Developer Network (MDN) Web Docs. (2026). CSS: Cascading Style Sheets. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS (Accessed: 18 September 2026).
+
+- Mozilla Developer Network (MDN) Web Docs. (2026). CSS media queries. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Media_queries (Accessed: 18 September 2026).
+
+- Mozilla Developer Network (MDN) Web Docs. (2026). CSS Grid Layout. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Grid_layout (Accessed: 18 September 2026).
+
+- Mozilla Developer Network (MDN) Web Docs. (2026). Responsive web design. Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Responsive_Design (Accessed: 18 September 2026).
+
+- GitHub. (2026). GitHub Docs: About repositories. Available at: https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories (Accessed: 18 September 2026).
+
+- Google Chrome Developers. (2026). Chrome DevTools. Available at: https://developer.chrome.com/docs/devtools/ (Accessed: 18 September 2026).
